@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reactivities", "Reactivities\Reactivities.csproj", "{A53DB2D6-8EF6-4DC9-B9BD-0B5C2B94E765}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A53DB2D6-8EF6-4DC9-B9BD-0B5C2B94E765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A53DB2D6-8EF6-4DC9-B9BD-0B5C2B94E765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A53DB2D6-8EF6-4DC9-B9BD-0B5C2B94E765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A53DB2D6-8EF6-4DC9-B9BD-0B5C2B94E765}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74754D08-E3E1-4F77-8D70-6DC83059612F}
+	EndGlobalSection
+EndGlobal
